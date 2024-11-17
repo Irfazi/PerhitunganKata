@@ -165,7 +165,7 @@ Dengan kode ini, sebuah dialog JFileChooser akan muncul sehingga Anda bisa memil
 
 
 ## Contoh Gambar Project Setelah di Run
-![](https://github.com/firaaaa10/Tugas5_AplikasiPenghitunganKata/blob/main/Cuplikan%20layar%202024-11-07%20194302.png)
+![](https://github.com/Irfazi/PerhitunganKata/blob/main/Screenshot%202024-11-17%20194317.png)
 
 ## Indikator Penilaian:
 
